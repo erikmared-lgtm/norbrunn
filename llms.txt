@@ -1,0 +1,28 @@
+# Norbrunn
+
+> Oberoende svensk guide om egen brunn och eget vatten vid torka och kris, med förmedling av offertförfrågningar till brunnsborrare. Alla sakuppgifter har källa (SGU, Livsmedelsverket, MSB, Skatteverket). Bergvärme och luftvärmepump finns på systersajten (se nedan). Senast uppdaterad 2026-10-23.
+
+## Sidor
+- [Borra egen brunn – jämför offerter på brunnsborrning](https://norbrunn.se/index.html): Eget vatten vid torka och kris: guider om egen brunn och bergvärme med källor, och offerter från brunnsborrare i ditt område.
+- [Borra egen brunn – steg för steg](https://norbrunn.se/borra-egen-brunn.html): Så går det till att borra egen brunn: regler, val av brunnsborrare, borrning, vattenprov och pump.
+- [Vad kostar det att borra en brunn?](https://norbrunn.se/kostnad-brunnsborrning.html): Vad påverkar priset på brunnsborrning, och gäller ROT-avdrag? Inga påhittade schablonpriser.
+- [Välja brunnsborrare – så jämför du](https://norbrunn.se/valja-brunnsborrare.html): Så väljer du brunnsborrare: certifiering, offertens innehåll och frågor att ställa.
+- [Torka och vattenbrist – egen brunn vid kusten](https://norbrunn.se/torka-vattenbrist.html): Bevattningsförbud, låga grundvattennivåer och risk för salt vatten nära kusten – fakta med källor.
+- [Krisberedskap – vatten hemma och egen brunn](https://norbrunn.se/krisberedskap-vatten.html): Vatten vid kris: vad myndigheterna rekommenderar och hur egen brunn passar in i hushållets beredskap.
+- [Statistik: nya brunnar per år i Sverige](https://norbrunn.se/statistik-brunnar.html): Nya vattenbrunnar och energibrunnar per år 2010–2025 ur SGU:s brunnsarkiv, som tabell och CSV.
+- [Vanliga frågor om egen brunn](https://norbrunn.se/vanliga-fragor-brunn.html): Korta svar om tillstånd, kostnad, ROT, vattenprov och strömavbrott – med källor.
+- [Kunskap om egen brunn – alla guider](https://norbrunn.se/kunskap.html): Alla guider om egen brunn, torka och krisberedskap.
+- [Om Norbrunn – så fungerar jämförelsetjänsten](https://norbrunn.se/om-tjansten.html): Så fungerar tjänsten: urval av brunnsborrare, kontakt och hur innehållet tas fram.
+- [Integritetspolicy](https://norbrunn.se/integritet.html): Hur Norbrunn hanterar personuppgifter.
+- [Få offerter på brunnsborrning – egen vattenbrunn](https://norbrunn.se/offert.html): Begär offerter på egen vattenbrunn från brunnsborrare i ditt område. Gratis.
+
+## Data
+- [Nya brunnar per år, CSV](https://norbrunn.se/data/brunnar-per-ar.csv): SGU brunnsarkiv 2010–2025
+
+## Systersajter
+- [Norvarm](https://norvarm.se/): Bergvärme och luftvärmepump – jämför offerter
+- [Norsolis](https://norsolis.com/): Solceller och batteri för villa och BRF
+- [[AVSALTNINGSPORTAL]](https://[AVSALTNING-DOMÄN]/): Avsaltning av havs- och bräckt vatten
+
+## Offertflöde
+- https://norbrunn.se/offert.html: två steg. Steg 1: typ=vattenbrunn, postnummer, hustyp, läge, nuvarande, tidsplan. Steg 2: namn, epost, telefon (valfritt), meddelande, samtycke. Inget personnummer.
